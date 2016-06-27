@@ -9,9 +9,9 @@ Gem::Specification.new do |s|
   s.version     = Blorgh::VERSION
   s.authors     = ["Richard Venneman"]
   s.email       = ["richardvenneman@me.com"]
-  s.homepage    = "TODO"
-  s.summary     = "TODO: Summary of Blorgh."
-  s.description = "TODO: Description of Blorgh."
+  s.homepage    = "https://github.com/richardvenneman/engine-i18n-gem-loading"
+  s.summary     = "Example repo."
+  s.description = "Example repo."
   s.license     = "MIT"
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.rdoc"]
