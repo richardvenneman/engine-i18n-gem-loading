@@ -1,7 +1,7 @@
 require './lib/my_i18n/version'
 
 Gem::Specification.new do |s|
-  s.name        = 'my-i18n'
+  s.name        = 'my_i18n'
   s.version     = MyI18n::VERSION
   s.authors     = ["Richard Venneman"]
   s.email       = 'richardvenneman@me.com'
