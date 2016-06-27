@@ -1,0 +1,21 @@
+PATH
+  remote: .
+  specs:
+    my-i18n (0.0.1)
+      i18n
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    i18n (0.7.0)
+    rake (11.1.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  my-i18n!
+  rake (~> 11.1)
+
+BUNDLED WITH
+   1.12.5
